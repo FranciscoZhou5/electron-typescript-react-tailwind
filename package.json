@@ -1,8 +1,8 @@
 {
-  "name": "my-own-terminal",
-  "productName": "my-own-terminal",
+  "name": "electron-react-typescript-tailwind",
+  "productName": "electron-react-typescript-tailwind",
   "version": "1.0.0",
-  "description": "My Electron application description",
+  "description": "My Electron application with Typescript + React + TailwindCSS",
   "main": ".webpack/main",
   "scripts": {
     "start": "electron-forge start",
